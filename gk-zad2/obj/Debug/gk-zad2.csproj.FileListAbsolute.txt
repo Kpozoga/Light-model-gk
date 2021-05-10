@@ -1,0 +1,10 @@
+C:\Users\Krzychu\source\repos\gk-zad2\gk-zad2\bin\Debug\gk-zad2.exe.config
+C:\Users\Krzychu\source\repos\gk-zad2\gk-zad2\bin\Debug\gk-zad2.exe
+C:\Users\Krzychu\source\repos\gk-zad2\gk-zad2\bin\Debug\gk-zad2.pdb
+C:\Users\Krzychu\source\repos\gk-zad2\gk-zad2\obj\Debug\gk-zad2.csprojAssemblyReference.cache
+C:\Users\Krzychu\source\repos\gk-zad2\gk-zad2\obj\Debug\gk_zad2.Form1.resources
+C:\Users\Krzychu\source\repos\gk-zad2\gk-zad2\obj\Debug\gk_zad2.Properties.Resources.resources
+C:\Users\Krzychu\source\repos\gk-zad2\gk-zad2\obj\Debug\gk-zad2.csproj.GenerateResource.cache
+C:\Users\Krzychu\source\repos\gk-zad2\gk-zad2\obj\Debug\gk-zad2.csproj.CoreCompileInputs.cache
+C:\Users\Krzychu\source\repos\gk-zad2\gk-zad2\obj\Debug\gk-zad2.exe
+C:\Users\Krzychu\source\repos\gk-zad2\gk-zad2\obj\Debug\gk-zad2.pdb
